@@ -34,7 +34,6 @@ namespace PATrilhasAtiv07
     	{
     		diagonalsecundaria += matriz10[i, 9 - i];
     	} 
-    	
 		mediaprincipal = diagonalprincipal / 10;  
   		mediasecundaria = diagonalsecundaria / 10;
     	
